@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UOME</string>
+    <string name="title_activity_contact_detail">ContactDetailActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_contact">Add contact</string>
+    <string name="Search_contact">Search contact</string>
+    <string name="share">share</string>
+    <string name="search">search</string>
+    <string name="title_activity_adding_contact">AddingContactActivity</string>
+</resources>
